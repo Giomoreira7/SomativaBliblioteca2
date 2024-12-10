@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Giomoreira7/SomativaBliblioteca2#readme",
   "description": "",
   "devDependencies": {
-    "@vue/cli-service": "^5.0.8"
+    "@vue/cli-service": "^5.0.8",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
   }
 }
